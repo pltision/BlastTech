@@ -1,0 +1,10 @@
+{
+  "item.additions.mithril_ingot": "秘银锭",
+  "item.additions.red_crystal": "红水晶",
+  "item.additions.leadslate": "铅岩",
+  "item.additions.mithril_nugget": "秘银粒",
+
+  "block.additions.meteor_block": "陨石块",
+  "block.additions.red_crystal_ore": "红水晶矿石",
+  "block.additions.mithril_ore": "秘银矿"
+}

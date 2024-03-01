@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "yee.pltision.blasttech.mixin",
+  "refmap": "forgefun.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockEntityTypeMixin",
+    "BlockMixin",
+    "BlocksMixin",
+    "ItemsMixin",
+    "NamespacedWrapperMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

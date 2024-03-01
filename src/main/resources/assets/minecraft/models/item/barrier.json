@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blasttech:item/test"
+  },
+  "display": {
+    "gui": {
+      "rotation": [ 0, 180, 0 ],
+      "scale": [ 3.375, 3.375, 3.375 ],
+      "translation": [ -1.125, -1, 0]
+    }
+  }
+}
